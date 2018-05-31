@@ -1,0 +1,63 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 13/03/2018 15:38
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 50px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-graphic-design:before { content: "\f100"; }
+.flaticon-perspective:before { content: "\f101"; }
+.flaticon-bitcoin-28:before { content: "\f102"; }
+.flaticon-bitcoin-27:before { content: "\f103"; }
+.flaticon-bitcoin-26:before { content: "\f104"; }
+.flaticon-bitcoin-25:before { content: "\f105"; }
+.flaticon-bitcoin-24:before { content: "\f106"; }
+.flaticon-bitcoin-23:before { content: "\f107"; }
+.flaticon-bitcoin-22:before { content: "\f108"; }
+.flaticon-bitcoin-21:before { content: "\f109"; }
+.flaticon-bitcoin-20:before { content: "\f10a"; }
+.flaticon-bitcoin-19:before { content: "\f10b"; }
+.flaticon-bitcoin-18:before { content: "\f10c"; }
+.flaticon-bitcoin-17:before { content: "\f10d"; }
+.flaticon-bitcoin-16:before { content: "\f10e"; }
+.flaticon-bitcoin-15:before { content: "\f10f"; }
+.flaticon-bitcoin-14:before { content: "\f110"; }
+.flaticon-bitcoin-13:before { content: "\f111"; }
+.flaticon-bitcoin-12:before { content: "\f112"; }
+.flaticon-bitcoin-11:before { content: "\f113"; }
+.flaticon-bitcoin-10:before { content: "\f114"; }
+.flaticon-bitcoin-9:before { content: "\f115"; }
+.flaticon-bitcoin-8:before { content: "\f116"; }
+.flaticon-bitcoin-7:before { content: "\f117"; }
+.flaticon-bitcoin-6:before { content: "\f118"; }
+.flaticon-bitcoin-5:before { content: "\f119"; }
+.flaticon-bitcoin-4:before { content: "\f11a"; }
+.flaticon-bitcoin-3:before { content: "\f11b"; }
+.flaticon-bitcoin-2:before { content: "\f11c"; }
+.flaticon-bitcoin-1:before { content: "\f11d"; }
+.flaticon-bitcoin:before { content: "\f11e"; }
+.flaticon-bitcoin-29:before { content: "\f11f"; }
